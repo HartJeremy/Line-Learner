@@ -87,6 +87,9 @@ OffBook v54 supports text-based PDF imports using browser-side PDF text extracti
 
 Fixes PDF import by loading the browser-compatible PDF.js build dynamically and correcting PDF text extraction syntax.
 
+## Lyrics Mode (v55)
+Choose **Song / lyrics** before importing or pasting text. Put each lyric phrase on its own line. Optional section headings such as `[Verse 1]`, `CHORUS`, `BRIDGE`, or `OUTRO` organize the song. OffBook treats each phrase as a recall card and uses the preceding phrase as the cue. Script mode remains available unchanged.
+
 
 ## v54 PDF Import Fix
 
